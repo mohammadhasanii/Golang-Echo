@@ -18,7 +18,6 @@ For older versions, please use the latest v3 tag
 ![Logo](https://camo.githubusercontent.com/51a439f00c1f20def60ed7bef7dfc4f52a2fc23944c0035427c45599f4c9490c/68747470733a2f2f692e696d6775722e636f6d2f7338794b516a782e706e67)
 
 
-## Run Application
 
 ## Running app
 
